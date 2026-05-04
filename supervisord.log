@@ -1,0 +1,97 @@
+2026-05-03 11:51:43,296 INFO Set uid to user 0 succeeded
+2026-05-03 11:51:43,300 INFO supervisord started with pid 1
+2026-05-03 11:51:44,302 INFO spawned: 'php-fpm' with pid 7
+2026-05-03 11:51:44,304 INFO spawned: 'nginx' with pid 8
+2026-05-03 11:51:44,307 INFO spawned: 'cron' with pid 9
+2026-05-03 11:51:45,344 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-03 11:51:45,344 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-03 11:51:45,344 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-03 11:57:11,583 WARN received SIGQUIT indicating exit request
+2026-05-03 11:57:11,584 INFO waiting for php-fpm, nginx, cron to die
+2026-05-03 11:57:11,584 WARN stopped: cron (terminated by SIGTERM)
+2026-05-03 11:57:11,587 INFO stopped: nginx (exit status 0)
+2026-05-03 11:57:11,594 INFO stopped: php-fpm (exit status 0)
+2026-05-03 12:05:54,542 INFO Set uid to user 0 succeeded
+2026-05-03 12:05:54,546 INFO supervisord started with pid 1
+2026-05-03 12:05:55,548 INFO spawned: 'php-fpm' with pid 7
+2026-05-03 12:05:55,551 INFO spawned: 'nginx' with pid 8
+2026-05-03 12:05:55,553 INFO spawned: 'cron' with pid 9
+2026-05-03 12:05:56,610 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-03 12:05:56,611 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-03 12:05:56,611 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-03 12:12:28,155 INFO reaped unknown pid 52 (exit status 0)
+2026-05-04 05:25:23,291 WARN received SIGQUIT indicating exit request
+2026-05-04 05:25:23,292 INFO waiting for php-fpm, nginx, cron to die
+2026-05-04 05:25:23,292 WARN stopped: cron (terminated by SIGTERM)
+2026-05-04 05:25:23,297 INFO stopped: nginx (exit status 0)
+2026-05-04 05:25:24,313 INFO stopped: php-fpm (exit status 0)
+2026-05-04 05:25:24,725 INFO Set uid to user 0 succeeded
+2026-05-04 05:25:24,726 INFO supervisord started with pid 1
+2026-05-04 05:25:25,728 INFO spawned: 'php-fpm' with pid 7
+2026-05-04 05:25:25,730 INFO spawned: 'nginx' with pid 8
+2026-05-04 05:25:25,732 INFO spawned: 'cron' with pid 9
+2026-05-04 05:25:26,766 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 05:25:26,766 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 05:25:26,766 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 05:36:18,687 WARN received SIGQUIT indicating exit request
+2026-05-04 05:36:18,688 INFO waiting for php-fpm, nginx, cron to die
+2026-05-04 05:36:18,688 WARN stopped: cron (terminated by SIGTERM)
+2026-05-04 05:36:18,691 INFO stopped: nginx (exit status 0)
+2026-05-04 05:36:18,698 INFO stopped: php-fpm (exit status 0)
+2026-05-04 05:36:40,209 INFO Set uid to user 0 succeeded
+2026-05-04 05:36:40,213 INFO supervisord started with pid 1
+2026-05-04 05:36:41,216 INFO spawned: 'php-fpm' with pid 7
+2026-05-04 05:36:41,218 INFO spawned: 'nginx' with pid 8
+2026-05-04 05:36:41,220 INFO spawned: 'cron' with pid 9
+2026-05-04 05:36:42,257 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 05:36:42,257 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 05:36:42,257 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 05:44:07,222 INFO reaped unknown pid 46 (terminated by SIGKILL)
+2026-05-04 05:44:34,251 INFO reaped unknown pid 53 (terminated by SIGKILL)
+2026-05-04 05:44:34,251 INFO reaped unknown pid 60 (terminated by SIGKILL)
+2026-05-04 05:48:41,929 WARN received SIGQUIT indicating exit request
+2026-05-04 05:48:41,930 INFO waiting for php-fpm, nginx, cron to die
+2026-05-04 05:48:41,930 WARN stopped: cron (terminated by SIGTERM)
+2026-05-04 05:48:41,935 INFO stopped: nginx (exit status 0)
+2026-05-04 05:48:41,942 INFO stopped: php-fpm (exit status 0)
+2026-05-04 05:49:36,388 INFO Set uid to user 0 succeeded
+2026-05-04 05:49:36,391 INFO supervisord started with pid 1
+2026-05-04 05:49:37,394 INFO spawned: 'php-fpm' with pid 8
+2026-05-04 05:49:37,396 INFO spawned: 'nginx' with pid 9
+2026-05-04 05:49:37,398 INFO spawned: 'cron' with pid 10
+2026-05-04 05:49:38,434 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 05:49:38,434 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 05:49:38,434 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 05:51:52,574 INFO reaped unknown pid 43 (terminated by SIGKILL)
+2026-05-04 05:53:15,653 INFO reaped unknown pid 44 (terminated by SIGKILL)
+2026-05-04 05:53:15,653 INFO reaped unknown pid 51 (terminated by SIGKILL)
+2026-05-04 05:56:56,890 INFO reaped unknown pid 89 (terminated by SIGKILL)
+2026-05-04 05:56:56,890 INFO reaped unknown pid 96 (terminated by SIGKILL)
+2026-05-04 06:00:03,087 WARN received SIGQUIT indicating exit request
+2026-05-04 06:00:03,088 INFO waiting for php-fpm, nginx, cron to die
+2026-05-04 06:00:03,088 WARN stopped: cron (terminated by SIGTERM)
+2026-05-04 06:00:03,091 INFO stopped: nginx (exit status 0)
+2026-05-04 06:00:03,096 INFO stopped: php-fpm (exit status 0)
+2026-05-04 06:01:07,635 INFO Set uid to user 0 succeeded
+2026-05-04 06:01:07,639 INFO supervisord started with pid 1
+2026-05-04 06:01:08,642 INFO spawned: 'php-fpm' with pid 7
+2026-05-04 06:01:08,644 INFO spawned: 'nginx' with pid 8
+2026-05-04 06:01:08,646 INFO spawned: 'cron' with pid 9
+2026-05-04 06:01:09,683 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 06:01:09,683 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 06:01:09,683 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 06:32:54,203 WARN received SIGQUIT indicating exit request
+2026-05-04 06:32:54,204 INFO waiting for php-fpm, nginx, cron to die
+2026-05-04 06:32:55,205 WARN stopped: cron (terminated by SIGTERM)
+2026-05-04 06:32:55,208 INFO stopped: nginx (exit status 0)
+2026-05-04 06:32:55,216 INFO stopped: php-fpm (exit status 0)
+2026-05-04 06:34:22,624 INFO Set uid to user 0 succeeded
+2026-05-04 06:34:22,628 INFO supervisord started with pid 1
+2026-05-04 06:34:23,630 INFO spawned: 'php-fpm' with pid 7
+2026-05-04 06:34:23,632 INFO spawned: 'nginx' with pid 8
+2026-05-04 06:34:23,634 INFO spawned: 'cron' with pid 9
+2026-05-04 06:34:24,671 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 06:34:24,671 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 06:34:24,671 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2026-05-04 06:47:26,747 INFO reaped unknown pid 126 (exit status 0)
+2026-05-04 06:48:05,784 INFO reaped unknown pid 6224 (exit status 0)
